@@ -1,5 +1,5 @@
 
-# GloVe as a TensorFlow Embedding layer
+# [GloVe as a TensorFlow Embedding layer](https://github.com/guillaume-chevalier/GloVe-as-a-TensorFlow-Embedding-Layer)
 
 In this tutorial, we'll see how to convert GloVe embeddings to TensorFlow layers. This could also work with embeddings generated from word2vec.
 
